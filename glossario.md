@@ -75,7 +75,7 @@
     * Controle do titular: O titular dos dados tem direito de acessar, corrigir e excluir seus dados.
 * **Multas e sanções previstas:** As empresas que infringirem a LGPD estão sujeitas a multas de até 2% do seu faturamento no Brasil, podendo chegar a 50 milhões de reais.
 
-## 3.3 Lei Carolina Dieckmann (Lei nº 12.737/2012)
+### 3.3 Lei Carolina Dieckmann (Lei nº 12.737/2012)
 
 Proteger a privacidade e dados intimos.
 
