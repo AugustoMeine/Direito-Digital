@@ -50,7 +50,15 @@
     * **Invasão de sistemas:** Acesso não autorizado a sistemas computacionais.
     * **Danos a sistemas:** Alteração, destruição ou inutilização de dados ou sistemas.
     * **Furto de dados:** Roubo de informações confidenciais, como senhas e dados pessoais.
+ 
+ ### 2.3 Certificado Digital
 
+* **Assinatura Digital**
+* **Entidade Certificadora**
+* **Criptografia**
+    * **Simétrica/Assimétrica**
+    * **Chave Privada/Publica**
+      
 ## 3. Leis
 
 ### 3.1 Marco Civil da Internet - Lei nº 12.965/2014
