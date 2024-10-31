@@ -24,6 +24,9 @@
 
         4. **Avaliação e Monitoramento:** Realizar avaliações periódicas, utilizando ferramentas de monitoramento para detectar atividades prejudiciais.
 
+ * **Outsourcing:**
+  * PJ x CPF.
+
 ## 2. Termos Técnicos
 
 ### 2.1 Engenharia Social
